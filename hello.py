@@ -1,4 +1,4 @@
-print("hello malnutrition boy :) heheh")
+
 
 """ls - list, 
 cd - command, 
@@ -18,6 +18,8 @@ git checkout -b backend = this creates a new branch
 
 git checkout main
 git merge backend
+
+git checkout test = this is the new branch i made - test
 """
 
 for _ in range(5):
