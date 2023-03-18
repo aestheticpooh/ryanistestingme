@@ -15,6 +15,9 @@ git branch - shows you what branches i have
 
 git branch - lists the branch
 git checkout -b backend = this creates a new branch
+
+git checkout main
+git merge backend
 """
 
 for _ in range(5):
